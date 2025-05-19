@@ -1,5 +1,7 @@
 ## **Hello! i'm Haerul Anwar 👋**
 
+![Header](img/github-header-image.png)
+
 <!--
 **Haerulanwar05/haerulanwar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
