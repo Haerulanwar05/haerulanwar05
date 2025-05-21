@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 ![https://www.instagram.com/hye.rxl_?](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/muhammad-haerul-anwar-910b72273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### My Github Stats
+
+![haerul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haerulanwar05&show_icons=true&theme=tokyonight)
