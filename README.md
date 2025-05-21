@@ -1,5 +1,3 @@
-## **Hello! i'm Haerul Anwar 👋**
-
 ![Header](img/github-header-image.png)
 
 <!--
