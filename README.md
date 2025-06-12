@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![haerul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belajar_Python&show_icons=true&theme=tokyonight)
+![haerul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haerulanwar05Belajar_Python&show_icons=true&theme=tokyonight)
